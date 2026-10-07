@@ -17,7 +17,6 @@
 /.next/
 /.vinext/
 /out/
-
 # misc
 .DS_Store
 *.pem
